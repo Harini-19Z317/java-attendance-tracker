@@ -1,1 +1,2 @@
 # java-attendance-tracker
+     “ATTENDANCE TRACKER” is a project developed in java for maintaining the attendance of the students on daily basis in college. It facilitates to access the attendance information of a particular student in a particular subject and also in all subjects. This system also helps in evaluating attendance eligibility criteria of a student.
