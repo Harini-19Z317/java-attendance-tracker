@@ -145,6 +145,7 @@ class PSGclg    //parent class
 class Student extends PSGclg   //student class inherits PSGclg
 {
     Student(String[] User)
+
     {
         super(User);
     }
@@ -164,7 +165,7 @@ class Student extends PSGclg   //student class inherits PSGclg
     }
 }
 
-class Staff extends PSGclg   //SubjectStaff class inherits Staff class
+class Staff extends PSGclg   //Staff class inherits PSGclg class
 {
     Staff(String[] User) //parametrised constructor
     {
